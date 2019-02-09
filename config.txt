@@ -1,0 +1,6 @@
+token=NTQzMzI1NTA2Nzk2MjU3Mjgw.Dz7oxQ.W_gnJG35ZpVr_HCYDAV124CZTMo
+owner=416079848868413440
+prefix= M
+game= !Mhelp
+stayinchannel=true
+songinstatus=true 
